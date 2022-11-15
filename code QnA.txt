@@ -1,0 +1,24 @@
+1) it help or extend the component from rect to react component
+2)render fuction is use to show or render a specific object in screen
+3)touchable opacity make any button touchable 
+4)onPress property
+5)background colour or stylessheet
+6)Veiw , text ect
+7)constructer , render , component did mount,super,component willmount,component did update
+8)no because it dont allow it allow 1 only
+9)tochable opacity:it is toucable 
+                   :itcant aplly stying on it
+   Button: 1 it is not toucable 
+           2 it can apply styles on it
+
+10)stack navigation ,tab navigation,DrawerNavigation,Switch navigation
+11)by puting it in one container
+12)navigator use for navigation and container is the the properties contain for navigation
+13)props means properties for the component
+14)component life stages:mounting,unmounting,updating
+15)it hlp to exicute code when component is there 
+16)it creats object in class or it set state of the object in class
+17)it is a parent.........class!
+18)we use setState()
+19)?
+20)java script js?
